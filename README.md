@@ -1,5 +1,5 @@
 # ManagerPassword---Electron
--------------------------------------------------- <h2 style="background: linear-gradient(45deg,rgba(115, 115, 134, 0.231), #4a00e0);">CNPJ Query Project</h2> ------------------------------------------------------
+------------------------ <h2 style="font-family: "Poppins", sans-serif;">CNPJ Query Project</h2> -----------
 The objective of this project is to facilitate CNPJ consultations, for legal entities
 
 
