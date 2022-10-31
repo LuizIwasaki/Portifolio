@@ -1,5 +1,5 @@
 # ManagerPassword---Electron
------------------------- <h2 style="font-family: "Poppins", sans-serif;">CNPJ Query Project</h2> -----------
+------------------------ <h2 style="font-family: "Poppins", sans-serif">CNPJ Query Project</h2> -----------
 The objective of this project is to facilitate CNPJ consultations, for legal entities
 
 
