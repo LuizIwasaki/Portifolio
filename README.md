@@ -10,5 +10,6 @@ version: 1.0.1
 <h4>-Has a login page</h4>
 <h4>-Each person will be pre-registered (defined within the code)</h4>
  <h4>-The Login will be stored in an online and encrypted system, so that each user has security and exclusivity.</h4>
+ <h4>-Menu with types of legal queries that the user wants to search for   <p style"background: black">(available in future updates)</p></h4>
  </div>
 
