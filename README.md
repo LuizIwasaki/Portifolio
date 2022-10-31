@@ -13,11 +13,8 @@ version: 1.0.1
  <h4>-Menu with types of legal queries that the user wants to search for (available in future updates)</h4>
  </div>
  
- <div>
-<h3 style="background-image: url('https://user-images.githubusercontent.com/70579914/199045590-5ec8650d-bb57-4361-9def-ceb5e4e3901d.png')"></h3>
-<h3 style="background-image: url('https://user-images.githubusercontent.com/70579914/199045888-1289dece-5df7-4957-ac4e-5698679f38c2.png')"></h3>
-<h3 style="background-image: url('https://user-images.githubusercontent.com/70579914/199046062-f60a38e6-b395-4a08-a465-381fd34c86f1.png')"></h3>
+![image](https://user-images.githubusercontent.com/70579914/199047114-b22000b4-590e-48b2-8749-4bdf24842462.png)
+![image](https://user-images.githubusercontent.com/70579914/199047124-cedc31f6-2e14-41c7-8375-658ed58b3a4a.png)
+![image](https://user-images.githubusercontent.com/70579914/199047131-fcbd7cb0-2fbb-40cb-9d95-8c846627d528.png)
 
-
- </div>
 
