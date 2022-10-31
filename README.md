@@ -1,5 +1,5 @@
 # ManagerPassword---Electron
--------------------------------------- <h2>CNPJ Query Project</h2> -------------------------------------------------------------------
+-------------------------------------- <h3>CNPJ Query Project</h3> -------------------------------------------------
 The objective of this project is to facilitate CNPJ consultations, for legal entities
 
 
