@@ -1,5 +1,13 @@
 # ManagerPassword---Electron
-Gerenciador de Senhas em electronjs usando typescript.
+-------------------------------------------------- CNPJ Query Project --------------------------------------------------------------
 
 
-Projeto em desenvolvimento - estará disponível um preview assim que o alpha estiver pronto xD. 
+#Project under development
+version: 1.0.1
+
+The objective of this project is to facilitate CNPJ consultations, for legal entities
+
+<h2>-Has a login page<h2>
+
+<h2>-Each person will be pre-registered (defined within the code)</h2>
+
