@@ -14,9 +14,9 @@ version: 1.0.1
  </div>
  
  <div>
- ![image](https://user-images.githubusercontent.com/70579914/199045590-5ec8650d-bb57-4361-9def-ceb5e4e3901d.png)
-![image](https://user-images.githubusercontent.com/70579914/199045888-1289dece-5df7-4957-ac4e-5698679f38c2.png)
-![image](https://user-images.githubusercontent.com/70579914/199046062-f60a38e6-b395-4a08-a465-381fd34c86f1.png)
+https://user-images.githubusercontent.com/70579914/199045590-5ec8650d-bb57-4361-9def-ceb5e4e3901d.png
+(https://user-images.githubusercontent.com/70579914/199045888-1289dece-5df7-4957-ac4e-5698679f38c2.png
+https://user-images.githubusercontent.com/70579914/199046062-f60a38e6-b395-4a08-a465-381fd34c86f1.png
 
  </div>
 
